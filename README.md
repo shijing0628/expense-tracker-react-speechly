@@ -2,7 +2,18 @@
 
 2021-1-8
 
-# Getting Started with Create React App
+```
+npm inistall
+```
+
+```
+npm start
+```
+
+- context api address add transaction and delete transaction
+- change category depends on different type (income or expense)
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
