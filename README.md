@@ -12,6 +12,14 @@ npm start
 
 - context api address add transaction and delete transaction
 - change category depends on different type (income or expense)
+- speechly dashboard : https://api.speechly.com/dashboard/#/dashboard
+- local storage
+- mobile responsive
+
+![](2021-01-09-10-34-48.png)
+<br>
+
+![](2021-01-09-10-43-43.png)
 
 ### Getting Started with Create React App
 
