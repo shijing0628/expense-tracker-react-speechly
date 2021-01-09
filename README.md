@@ -18,10 +18,6 @@ npm start
 - mobile responsive
   <br>
 
-### app link:
-
-**https://voice-track-expense-income.netlify.app/**
-
 ![](2021-01-09-10-34-48.png)
 <br>
 
