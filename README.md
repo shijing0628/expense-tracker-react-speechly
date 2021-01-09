@@ -3,7 +3,7 @@
 2021-1-8
 
 ```
-npm inistall
+npm install
 ```
 
 ```
@@ -13,8 +13,14 @@ npm start
 - context api address add transaction and delete transaction
 - change category depends on different type (income or expense)
 - speechly dashboard : https://api.speechly.com/dashboard/#/dashboard
+  (login as my github account)
 - local storage
 - mobile responsive
+  <br>
+
+### app link:
+
+**https://voice-track-expense-income.netlify.app/**
 
 ![](2021-01-09-10-34-48.png)
 <br>
